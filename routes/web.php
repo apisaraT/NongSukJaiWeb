@@ -14,6 +14,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('้forgot');
 });
 
+Route::get('/main', function () {
+    return view('้main');
+});
+
+Route::get('/pass', function () {
+    return view('้forgot');
+});
+
+
+
+
+Route::get('/posts','FirebaseController@index')->name('posts');

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nong-suk-jai-healthlogs",
+  "private_key_id": "5f5ad21eb0b61cce3dbc2812155ffffd0185d8c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9FmnkwSihCnnY\nOVpbProwvcaKvwBrrwjcwGjlr238WH+a2UiR0ITp4Helr6Tice/9juPUV2FRl+xp\nxJEJE3yRwFM74kBlSjmclAQqbPGrvMzuWn3B4sEtFSaKqfd2fR7DuxXytR0E96Eh\nZcubRL0rXQ1MJvF8WmRwU09CvsB/rJPndFy8GEA4T1ZTSEu6ioKpFaOCJFDs8Bg1\nEfmmiwcH//wmqem/aQSnHdjqECrZWrIYFFnTAq5DnAgjwI2Dbt2HqK9LsBEHzzQD\nyMn5TKOqwRvQ9dWYdGrPi7zR05lakfDDgHmJ+0UPDyVjrz6uItwegEiN+rf1GsIs\nJK4RHbF3AgMBAAECggEALRNVxRGC5PkBWNk7P/sxGYNz/AlSSVldjHpVx0NNvdU+\n/iQEF7aUqMg43YeEj/LHWjOg/jKiYXgNBJ22UWqSzJADh4gE/+B04W2rnI2CAwWr\n+Lobtoees2eSW4XvFxD2r4Q+1C/2rgN2JucEZYw6aEbzb47tDE7kGJ7Tiz671vNc\nP7h06Qd97bsNnp4NGf5xJXmn7V39tE9q34WtC4k1pcj/5FcZws1DoA22ec9ldmbq\n7O9O8asWRvS2jVIiu3JjZpkx1/GrERD6bgG+hrpgDo2SYem+GoaAZchad/IfF4BH\nYNWQnZzoBRNAKJG9VIPBiRgTiRATgvSJTHGW3KrGgQKBgQD6Ich4RgBJJdxCTrAC\n+DZKDqtTx9AcCC4ruXChsP2pm2RiCqSurXSgwaxCRJ48KfpiHc0mASoif7GvWT7C\ngvYsyfah1b6ZDcCe5KteMlz57rwM6Fuh7sAqn75Vp/DyX2n1IqLiNEkPES6XuGvx\ndoAzaIqyepbeJ3hFMZ6al4yXtwKBgQDBhgQrnj/VS/LZ6xIaYr1vFpvXCzp6sYQl\nKdaW0BKyEy2j4uo9vh96iWGN3wLx4jdPHJIF+MdbmxkJ9PwhdjQd+I+ePvnTTQTf\nseYTkCBVUIAR2aPJky4ALY/BHk6eoV7lC+aH1KF0NcQFeIAcsaUVVjBehku0ZK5U\nyKmlMTY0QQKBgQD4mvU13VVRXojhenXkLbE/v/62wYTtJ5BEMwZoHpKvrVuDOlLd\nrlaZpITCRJME9y/9ruMEX+nx6fq/bjM7fpCQiZdQ2DGcy5dkFaDheasBWi+boKHa\ne4KRmr3BQq7vJrgYRXmg3Bi1Gf22HD1k+8OF1OTtaXxjhtU56Ixb2D6LVwKBgDqn\n/CucU4y68GjMrzgAJZq+J44OgTMfCwaYn8omVwRSe8roxEbikXf6m+78YVAfWNRJ\nvJjCxuolIHm8H4+k3DcZV66HOAGrnoaOzUWwsZwqQicm6FX4nkC/joriPMIn9zNF\nYCJbeHRYt4lQ9MO9tGO7M/3yho+u1IguKf0/5UYBAoGBAOn3GzuUEI7LCrZ9UyNB\nHwdVn6BZrVsO3FzWuENweZvCmX1A9XdBwRBa1dvpQLlzcY5qIeTsOdjl6aWge92R\noORSgd2qOn299b7tB93SjlGxXsCbWQ5h0SwnjVh1/IxOzYloUgpc4IMY2EHF8vrj\nvuxvynIkYohLsUdGbdLwbfl8\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8d69u@nong-suk-jai-healthlogs.iam.gserviceaccount.com",
+  "client_id": "108743973854272326167",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8d69u%40nong-suk-jai-healthlogs.iam.gserviceaccount.com"
+}
